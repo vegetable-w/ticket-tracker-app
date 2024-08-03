@@ -7,7 +7,6 @@ const MainNavLinks = () => {
   const links = [
     { label: "Dashboard", href: "/" },
     { label: "Tickets", href: "/tickets" },
-    { label: "Users", href: "/users" },
   ];
 
   const currentPath = usePathname();
