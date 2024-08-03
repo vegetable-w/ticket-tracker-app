@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { Main } from "next/document";
 import MainNav from "@/components/MainNav";
 import { ThemeProvider } from "@/components/theme-provider";
 

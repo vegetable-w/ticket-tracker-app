@@ -3,7 +3,7 @@ import prisma from "@/prisma/db";
 import DataTable from "./DataTable";
 import { buttonVariants } from "@/components/ui/button";
 import Link from "next/link";
-import Pagination from "@/components/pagination";
+import Pagination from "@/components/Pagination";
 import StatusFilter from "@/components/StatusFilter";
 import { Status } from "@prisma/client";
 import { Ticket } from "@prisma/client";
