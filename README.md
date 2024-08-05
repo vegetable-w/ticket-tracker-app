@@ -10,9 +10,9 @@ This is an interactive web application for managing tickets. The interface displ
 
 ## Features
 
-- **Task Display**: View task titles, statuses, priorities, and creation dates.
-- **Task Creation**: Create new tasks using the "New" button.
-- **Task Filtering**: Filter tasks based on their status.
+- **Ticket Display**: View ticket titles, statuses, priorities, and creation dates.
+- **Ticket Creation**: Create new tickets using the "New Ticket" button.
+- **Ticket Filtering**: Filter tickets based on their status.
 
 The application should now be running at https://ticket-tracker-ashy.vercel.app/tickets
 
