@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Ticket Management Web Application
+
+This is an interactive web application for managing tickets. The interface displays the ticket title, status, priority, and creation date. Users can click the "New Ticket" button to create a new ticket and filter existing tickets based on their status.
+
+## Technologies Used
+
+- **Frontend Framework**: Next.js
+- **Programming Language**: TypeScript
+- **Database**: MySQL
+
+## Features
+
+- **Task Display**: View task titles, statuses, priorities, and creation dates.
+- **Task Creation**: Create new tasks using the "New" button.
+- **Task Filtering**: Filter tasks based on their status.
+
+The application should now be running at https://ticket-tracker-ashy.vercel.app/tickets
 
 ## Getting Started
 
